@@ -1,0 +1,10 @@
+table, tr, td {
+    border: solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+.lixo{
+    height: 50px;
+    width: 50px;
+}
